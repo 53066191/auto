@@ -1,6 +1,6 @@
 package com.auto.ext.mocker.common.util;
 
-import com.kiktech.ext.mocker.common.response.exception.MockerException;
+import com.auto.ext.mocker.common.response.exception.MockerException;
 import io.netty.buffer.ByteBuf;
 import io.netty.handler.codec.http.FullHttpMessage;
 import io.netty.handler.codec.http.FullHttpRequest;

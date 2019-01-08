@@ -1,7 +1,7 @@
 package com.auto.ext.mocker.common.pool;
 
-import com.kiktech.ext.mocker.common.httpserver.HttpAdaptiveDecoder;
-import com.kiktech.ext.mocker.common.httpserver.HttpAdaptiveEncoder;
+import com.auto.ext.mocker.common.httpserver.HttpAdaptiveDecoder;
+import com.auto.ext.mocker.common.httpserver.HttpAdaptiveEncoder;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelHandler;

@@ -1,6 +1,6 @@
   package com.auto.ext.mocker.common.pool;
 
-  import com.kiktech.ext.mocker.common.util.HttpHelper;
+  import com.auto.ext.mocker.common.util.HttpHelper;
   import io.netty.channel.ChannelHandlerContext;
   import io.netty.channel.SimpleChannelInboundHandler;
   import io.netty.handler.codec.http.FullHttpResponse;

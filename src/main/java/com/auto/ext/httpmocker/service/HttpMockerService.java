@@ -1,9 +1,9 @@
 package com.auto.ext.httpmocker.service;
 
-import com.kiktech.ext.httpmocker.service.exception.MockerServiceException;
-import com.kiktech.ext.httpmocker.service.model.MockerRouteEntry;
-import com.kiktech.ext.httpmocker.service.model.ResponseTemplate;
-import com.kiktech.ext.httpmocker.service.model.ResponseTemplateEntry;
+import com.auto.ext.httpmocker.service.exception.MockerServiceException;
+import com.auto.ext.httpmocker.service.model.MockerRouteEntry;
+import com.auto.ext.httpmocker.service.model.ResponseTemplate;
+import com.auto.ext.httpmocker.service.model.ResponseTemplateEntry;
 
 import java.util.List;
 import java.util.Map;

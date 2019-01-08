@@ -1,6 +1,6 @@
 package com.auto.ext.mocker.common.service;
 
-import com.kiktech.ext.mocker.common.httpserver.ResponseClosure;
+import com.auto.ext.mocker.common.httpserver.ResponseClosure;
 
 import java.util.Map;
 

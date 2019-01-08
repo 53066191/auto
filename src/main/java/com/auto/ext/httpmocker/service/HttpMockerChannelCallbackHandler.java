@@ -1,9 +1,9 @@
 package com.auto.ext.httpmocker.service;
 
-import com.kiktech.ext.mocker.common.httpserver.HttpMockRequest;
-import com.kiktech.ext.mocker.common.httpserver.ResponseClosure;
-import com.kiktech.ext.mocker.common.pool.MockerChannelCallbackHandler;
-import com.kiktech.ext.mocker.common.util.HttpHelper;
+import com.auto.ext.mocker.common.httpserver.HttpMockRequest;
+import com.auto.ext.mocker.common.httpserver.ResponseClosure;
+import com.auto.ext.mocker.common.pool.MockerChannelCallbackHandler;
+import com.auto.ext.mocker.common.util.HttpHelper;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.http.FullHttpRequest;
 

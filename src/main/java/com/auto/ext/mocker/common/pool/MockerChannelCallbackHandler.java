@@ -1,11 +1,11 @@
 package com.auto.ext.mocker.common.pool;
 
-import com.kiktech.ext.mocker.common.httpserver.HttpMockRequest;
-import com.kiktech.ext.mocker.common.httpserver.HttpMockServerHandler;
-import com.kiktech.ext.mocker.common.httpserver.ResponseClosure;
-import com.kiktech.ext.mocker.common.response.exception.MockerStubNotHitException;
-import com.kiktech.ext.mocker.common.util.HttpHelper;
-import com.kiktech.ext.mocker.common.util.JsonHelper;
+import com.auto.ext.mocker.common.httpserver.HttpMockRequest;
+import com.auto.ext.mocker.common.httpserver.HttpMockServerHandler;
+import com.auto.ext.mocker.common.httpserver.ResponseClosure;
+import com.auto.ext.mocker.common.response.exception.MockerStubNotHitException;
+import com.auto.ext.mocker.common.util.HttpHelper;
+import com.auto.ext.mocker.common.util.JsonHelper;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelFutureListener;
 import io.netty.channel.ChannelHandlerContext;
