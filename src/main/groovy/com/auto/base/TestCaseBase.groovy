@@ -1,8 +1,8 @@
 package com.auto.base
 
-import com.kiktech.ext.httpmocker.service.HttpMockerServiceClient
-import com.kiktech.ext.httpmocker.service.exception.MockerServiceException
-import com.kiktech.util.GroovyJDBC
+import com.auto.ext.httpmocker.service.HttpMockerServiceClient
+import com.auto.ext.httpmocker.service.exception.MockerServiceException
+import com.auto.util.GroovyJDBC
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import org.testng.annotations.AfterMethod
